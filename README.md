@@ -34,3 +34,5 @@ This command will start the app.
 
 Step 4: Use the App
 After you run the last command, the terminal will give you a local web address (like http://localhost:3000). Just copy and paste that link into your web browser to start using the app.
+
+If ever stuck screenshot the error into chat gpt or use co-pilot
